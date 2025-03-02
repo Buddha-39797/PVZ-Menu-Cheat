@@ -20,7 +20,6 @@ KeyBind:
 F5: Unloads the dll.dll(Cheat dll) 
 F12: Opens the menu
 
-Features list are on the GitHub.
 Pics:
 ![image](https://github.com/user-attachments/assets/2323dd72-846e-4707-a284-56b559568fde)
 ![image](https://github.com/user-attachments/assets/e5efef09-03b8-4811-b10a-dacf84d0d110)
