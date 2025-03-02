@@ -40,4 +40,4 @@ Column Plant(Vertical Plant).
 Time Control.
 Pics:
 ![image](https://github.com/user-attachments/assets/2323dd72-846e-4707-a284-56b559568fde)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e5efef09-03b8-4811-b10a-dacf84d0d110)
