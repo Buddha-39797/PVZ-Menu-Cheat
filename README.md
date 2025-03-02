@@ -1,7 +1,8 @@
 # PVZ-Menu-Cheat
 This is Cheat for Plants Vs Zombie Fusion that will modify the game's memory for it's features. It is fully coded in C++. what Library that I use you may ask? C++ standard library. mIni Library by Metayeti. Windows Library.
 
-WARNING :warning::warning::warning:
+:warning:WARNING:warning:
+
 ``The cheat may be recognized as virus on your antivirus because it uses LoadLibraryA function from windows API. so please add exclusion folder to the cheat folder.``
 
 Installation requirement:
