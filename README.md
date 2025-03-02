@@ -38,3 +38,6 @@ No cooldown.
 Travel Plants Everywhere.
 Column Plant(Vertical Plant).
 Time Control.
+Pics:
+![image](https://github.com/user-attachments/assets/2323dd72-846e-4707-a284-56b559568fde)
+![Uploading image.png…]()
