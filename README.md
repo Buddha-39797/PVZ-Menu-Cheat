@@ -19,7 +19,8 @@ How to install:
 3. Enjoy the game.
 KeyBind:
 F5: Unloads the dll.dll(Cheat dll) 
-F12: Opens the menu
+F12: Opens the menu (For Version 2.1b and above use TAB)
+
 
 Pics:
 ![image](https://github.com/user-attachments/assets/2323dd72-846e-4707-a284-56b559568fde)
