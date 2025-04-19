@@ -21,7 +21,16 @@ KeyBind:
 F5: Unloads the dll.dll(Cheat dll) 
 F12: Opens the menu (For Version 2.1b and above use TAB)
 
+How to install 2.4.2++
+1. (Optional) Install certificate.crt so windows won't flag the file
+2. Extract the file anywhere(I recomend to extract it inside the PVZ directory)
+3. Run the Injector.exe(Point to the PVZ.exe and injector.dll if it asked you)
+4. Press Default(TAB) to open the menu
+5. Enjoy
 
 Pics:
-![image](https://github.com/user-attachments/assets/2323dd72-846e-4707-a284-56b559568fde)
-![image](https://github.com/user-attachments/assets/e5efef09-03b8-4811-b10a-dacf84d0d110)
+![image](https://github.com/user-attachments/assets/3509a4e2-897c-4776-8d94-15b79f36c41b)
+![image](https://github.com/user-attachments/assets/10367e65-070e-4fe5-b424-782b946636cc)
+![image](https://github.com/user-attachments/assets/ac668ce9-0bc0-4471-a7f8-4e05d956e1a3)
+![image](https://github.com/user-attachments/assets/59d03d3f-a1c4-477a-87ee-6f7a99700ed9)
+![image](https://github.com/user-attachments/assets/3509a4e2-897c-4776-8d94-15b79f36c41b)
