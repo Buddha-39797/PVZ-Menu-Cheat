@@ -3,10 +3,10 @@ This is Cheat for Plants Vs Zombie Fusion that will modify the game's memory for
 
 :warning:WARNING:warning:
 
-``The cheat may be recognized as virus on your antivirus because it uses LoadLibraryA function from windows API. 
-so please add exclusion folder to the cheat folder.
-Or install this certificate:``
+``The cheat may be recognized as virus on your antivirus because it uses LoadLibraryA function from windows API.
+so please add exclusion folder to the cheat folder.``
 
+Or install this certificate:
 https://github.com/Yurikia/PVZ-Menu-Cheat/releases/download/Version-2.4.2/certificate.crt
 
 Installation requirement:
